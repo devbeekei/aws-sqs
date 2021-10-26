@@ -1,0 +1,9 @@
+cloud:
+  aws:
+    stack:
+      auto: false
+    region:
+      static: ap-northeast-2
+    credentials:
+      access-key: [Access Key]
+      secret-key: [Secret Key]
