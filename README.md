@@ -1,2 +1,2 @@
 # aws-sqs
-aws-sqs
+AWS Simple Queue Service Example
